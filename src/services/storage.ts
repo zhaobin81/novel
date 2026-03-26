@@ -1,4 +1,4 @@
-import { WorldDesign, Character, Outline, Chapter, APIConfig, Novel } from '../types';
+import type { WorldDesign, Character, Outline, Chapter, APIConfig, Novel } from '../types';
 
 const STORAGE_KEYS = {
   API_CONFIG: 'novel_agent_api_config',

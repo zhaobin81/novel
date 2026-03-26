@@ -1,4 +1,4 @@
-import { APIConfig, Message } from '../types';
+import type { APIConfig, Message } from '../types';
 import { storage } from './storage';
 
 interface ChatCompletionMessage {
